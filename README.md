@@ -1,2 +1,5 @@
 # Ting
-Ting Is Not Git
+Ting 
+Is 
+Not 
+Git
